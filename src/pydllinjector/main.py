@@ -1,3 +1,5 @@
+import utils.transport
+import utils.session
 from ctypes.wintypes import *
 from pydllinjector.wintypes_extended import *
 from pydllinjector.kernel32 import *
